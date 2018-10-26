@@ -1,10 +1,10 @@
 body{
-    background-color: #d63031;
+    background-color: #f1f1f1;
     font-family: 'roboto';
 }
 
 .judul{
-    background: white;
+    background: #87D1D8;
     padding: 10px;
     text-align: center;
 
@@ -30,7 +30,7 @@ table.table th th , table.table tr td{
 }
 
 table {
-    background-color: #ff7675;
+    background-color: white;
     border-radius: 10px;
     border-collapse: collapse;
     width: 80%;
